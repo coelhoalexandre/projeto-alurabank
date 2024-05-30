@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto CodeConnect </h1>
+<h1 align="center"> Projeto AluraBank </h1>
 
 <div align="center">
 
@@ -19,18 +19,29 @@ Projeto feito em 3 partes com o instrutor [**Flavio Almeida**](https://github.co
 
 ## Objetivos do Projeto
 
-- Aprender o que é e como estruturar uma página de login usando componentes React;
-- Fazer a manipulação de eventos para interações do usuário com a interface;
-- Realizar a integração das bibliotecas React, React DOM e da ferram1enta Babel no seu projeto via CDN;
-- Gerencare estados através do useState;
-- Transformar componentes em dinâmicos com props e props children.
+- Aprender a configurar do zero o ambiente;
+- Conheçer gradativamente os recursos do compilador do TypeScript;
+- Compreender as vantagens da tipagem estática;
+- Modelar classes utilizando o que há de melhor na linguagem;
+- Aprender a utilizar tipos, modificadores e outros recursos;
+- Aprender a utilizar modificadores de acesso, herança e tipos genéricos;
+- Entender o papel das Enumerations;
+- Criar um mini framework de atualização de view inspirado no JSX;
+- Configurar ainda mais seu compilador TS e tire máximo proveito do seu código;
+- Conhecer as vantagens do uso de Decorators;
+- Criar diferentes tipos de decorators e deixe seu código ainda mais elegante;
+- Compreender os benefícios do uso de interfaces;
+- Aprender a organizar e a adicionar tipo em seu código ao consumir uma API REST;
+- Entender o papel de sourceMaps e aprenda como debugar a sua aplicação no navegador;
+- Criar soluções combinando tudo o que aprendeu nos módulos anteriores;
+- Tirar benefício do Polimorfismo garantindo um código protegido e dinâmico.
 
 ## Tecnolgias Utilizadas
 
 1. HTML
 2. CSS
 3. JS
-4. React
+4. TS
 
 ## Autor
 Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
